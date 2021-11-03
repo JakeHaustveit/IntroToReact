@@ -2,9 +2,9 @@
     text-align: right;    
     background-color: coral;
     color: cornsilk;
-    padding: 30px;
+    box-shadow:  0 50vh 0 50vh coral;    
     width: 100%;
-    margin-top: 50px;
+    margin-top: 2em;
     
 }
 
